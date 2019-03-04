@@ -26,7 +26,6 @@ var playerSpeed = 5;
 
 function setup() {
   createCanvas(600, 400);
-  frameRate(10);
 
 }
 
